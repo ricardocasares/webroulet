@@ -1,5 +1,5 @@
 /*!
-* classie - class helper functions
+* classie - class helper function
 * from bonzo https://github.com/ded/bonzo
 *
 * classie.has( elem, 'my-class' ) -> true/false
